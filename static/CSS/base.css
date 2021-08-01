@@ -45,3 +45,14 @@ header h1 a {
 .post-entry h2 a:hover {
     color: red;
 }
+
+header h4 a {
+    color: black;
+    text-decoration: none;
+}
+
+
+.nav-right {
+    display: flex;
+    padding: auto;
+}
